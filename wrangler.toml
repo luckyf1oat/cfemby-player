@@ -1,0 +1,6 @@
+name = "cfemby-player"
+main = "src/worker.js"
+compatibility_date = "2025-05-17"
+
+[observability]
+enabled = true
